@@ -3,7 +3,7 @@
 A simple ATM Machine Simulation built with Core Java (OOPs + Collections).
 This project runs in the console (terminal) and demonstrates banking features like account creation, login, deposit, withdrawal, balance inquiry, transaction history, and PIN management.
 
-✨ Features
+# ✨ Features
 
 👤 Account Management
 
